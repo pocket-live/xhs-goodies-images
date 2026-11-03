@@ -1,0 +1,10 @@
+.DS_Store
+.env
+.env.*
+*.sqlite
+*.sqlite-*
+*.db
+*.db-*
+原图_*
+**/待处理/
+**/参考截图/
